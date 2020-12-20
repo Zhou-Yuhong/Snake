@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/apple.png</file>
+        <file>res/backguound.png</file>
+        <file>res/begin_background.png</file>
+        <file>res/begin_icon.png</file>
+        <file>res/body_level.png</file>
+        <file>res/body_up.png</file>
+        <file>res/energy.png</file>
+        <file>res/heart.png</file>
+        <file>res/ice.png</file>
+        <file>res/leftdown.png</file>
+        <file>res/leftup.png</file>
+        <file>res/rightdown.png</file>
+        <file>res/rightup.png</file>
+        <file>res/wall.png</file>
+        <file>res/head_down.png</file>
+        <file>res/head_left.png</file>
+        <file>res/head_right.png</file>
+        <file>res/head_up.png</file>
+        <file>res/mushroom.png</file>
+    </qresource>
+</RCC>
